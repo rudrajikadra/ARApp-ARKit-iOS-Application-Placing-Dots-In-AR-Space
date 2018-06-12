@@ -5,10 +5,12 @@ It will stay there itself and the tracking is so insanely great thanks to apple'
 
 ## Features
 Uses Apple's AR Kit for Augmenting the spheres in the space.
-Project was build in Xcode 9 with Swift 4.
-
 #### Youtube Reference Tutorial : https://www.youtube.com/watch?v=bfAadJNX3Tc&t=133s
 
+### Note
+Project was build in Xcode 9 with Swift 4.
+The AR App Folder contains the swift files and the rest that is in xcode project workspace.
+The "AR App.xcodeproj" is the File that will open this project in Xcode.
 
 ## How does it looks like
 (Gif)
